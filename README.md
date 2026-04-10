@@ -1,7 +1,7 @@
-# Real-Time-Traffic-Signal-Control-Simulation---QNX
+# 🚦Real-Time-Traffic-Signal-Control-Simulation---QNX
 Smart QNX-based traffic simulator using threads, synchronization, scheduling, and FSM logic to manage signals dynamically with reliability, safety, and emergency prioritization.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
-# 🚦 Real-Time Traffic Signal Control Simulator using QNX RTOS
 
 ## 📌 Overview
 This project presents a real-time traffic signal control simulator based on QNX RTOS concepts. It models an intelligent traffic management system capable of handling dynamic traffic conditions using concurrency, synchronization, and deterministic scheduling.
