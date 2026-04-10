@@ -6,8 +6,12 @@ Smart QNX-based traffic simulator using threads, synchronization, scheduling, an
 📌 Overview
 This project presents a real-time traffic signal control simulator developed using QNX RTOS concepts. It demonstrates how embedded systems can efficiently manage traffic flow through concurrency, synchronization, and deterministic scheduling.
 
+---
+
 🎯 Objective
 The main objective of this project is to design and simulate a smart traffic signal system that adapts to real-time conditions such as traffic density and emergency situations while maintaining system reliability.
+
+---
 
 ⚙️ Features
 Multithreading using POSIX threads
