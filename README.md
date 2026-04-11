@@ -75,20 +75,7 @@ gcc traffic_signal.c -o traffic -lpthread
 ---
 
 ## 📸 Output
-
-### Normal Operation
-![Normal](output/output1.png)
-
-### Density-Based Control
-![Density](output/density.png)
-
-### Emergency Override
-![Emergency](output/emergency.png)
-
-### Watchdog Monitoring
-![Watchdog](output/watchdog.png)
-
-More output screenshots are available in the `output/` folder.
+Output screenshots are available in the `output/` folder.
 
 ---
 
