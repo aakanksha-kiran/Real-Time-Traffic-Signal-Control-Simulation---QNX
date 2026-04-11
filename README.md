@@ -8,7 +8,7 @@ This project presents a real-time traffic signal control simulator based on QNX 
 
 ---
 
-## 🎯 Key Objectives
+## 🎯 Objectives
 The objective of this project is to design a reliable and efficient traffic signal system that:
 - Adapts to traffic density
 - Handles emergency vehicle priority
