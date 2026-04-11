@@ -85,8 +85,8 @@ ppt/Q-eHack-2026-Presentation.pdf
 
 ---
 
-## 🔄 Flowchart
-![Workflow](flowchart/workflow.png)
+## 🔄 Workflow
+The complete workflow of the simulation and code compilation of this problem is shown using a flowchart. It is available in: Flowchart.jpeg
 
 ---
 
